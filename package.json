@@ -1,0 +1,10 @@
+{
+  "name": "npm-dependencies-taco",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Shawn Dempsey <shawn@shawndempsey.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "npm-dependencies-lettuce": "^1.0.0"
+  }
+}
