@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-npm-dependencies-lettuce@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/npm-dependencies-lettuce/-/npm-dependencies-lettuce-1.0.0.tgz#2bfc94ae9ea5e8eb9b2f2afe024689d5f5ed24ae"
-  integrity sha512-10RVu4NXW+sNB6AdXksKdlXyW7UYN9uwK9YVsuQDvdXqk/pzOaE7OUADKhXp3DLI5fOMNxrwhI4LAE1Wb7dbsw==
+npm-dependencies-lettuce@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/npm-dependencies-lettuce/-/npm-dependencies-lettuce-2.0.0.tgz#2b255911a60c3f076ad0b18bd76d532e7889988d"
+  integrity sha512-6Rx6l4nNn6a5HNQffY7SlN9TvJs2YZLjDWanp0/IKq1V3Y948Rqu0ZUJ97yy2R8kMpqzKfYw4xYKZkT41Feozw==
